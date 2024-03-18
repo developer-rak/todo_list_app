@@ -25,8 +25,8 @@ html {
 }
 
 .child-div figure img {
-  width: 10rem;
-  height: 8rem;
+  width: 12rem;
+  height: 10rem;
 }
 
 .child-div figure figcaption {
@@ -231,4 +231,9 @@ input:focus {
   letter-spacing: 0.05em;
   -webkit-transform: translateY(0) scale(1, 1);
   transform: translateY(0) scale(1, 1);
+}
+.copy-right {
+  color: #fff;
+  margin-top: 12px;
+  letter-spacing: 0.4rem;
 }
